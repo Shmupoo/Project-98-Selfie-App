@@ -1,0 +1,19 @@
+#head_img {
+    margin-left: 40px;
+    width: 40%;
+    border-radius: 50px;
+}
+
+#collage {
+    width: 75%;
+    border-radius: 50px;
+}
+
+textarea {
+    width: 300px;
+}
+
+#camera {
+    width: 360px;
+    height: 250px;
+}
